@@ -1,3 +1,14 @@
+# Mac Files
+.DS_Store
+
+# Build directories
+dist
+.tmp
+
+# Sass
+.sass-cache/
+*.css.map
+
 # Logs
 logs
 *.log
